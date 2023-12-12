@@ -1,5 +1,3 @@
 # Секвенирование генома человека
 ## Библиотеки 
-ПШуо  
-
-цкшукгзш
+<img src="https://img.shields.io/badge/numpy-black?style=flat-square&logo=numpy&logoColor=orange"/>
