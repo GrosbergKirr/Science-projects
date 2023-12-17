@@ -16,6 +16,13 @@
 - Создание дополнительных столбцов
 - Предсказание
 
+![Main](pics/crew.jpg?raw=true "Title")
+![Main](pics/graph1.JPG?raw=true "Title")
+![Main](pics/graph2.JPG?raw=true "Title")
+![Main](pics/graph3.JPG?raw=true "Title")
+![Main](pics/graph4.JPG?raw=true "Title")
+![Main](pics/design.JPG?raw=true "Title")
+
 ## Выводы и результаты
 	- Показатели для предсказания каждой детали удалось улучшить на 20-70%
 	- Исследованы методы дополнения данных путем ресемплирования по различным отрезкам, добавлеия скользящих средних, различных окнон и отклонения от них
